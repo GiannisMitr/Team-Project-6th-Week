@@ -1,16 +1,18 @@
 
-###[This] is a Dynamic webpage, the user can search for recipies based on ingridients, can register, and add recipies to his favorites. Also visitors can leave comments that can be reviewed by Administrator users.
+###[This] is a Dynamic webpage using java Servlets.
 
+The user can search for recipies based on ingridients, can register, and add recipies to his favorites.
+Also, visitors can leave comments that can be reviewed by Administrator users.
 
 ## Features
   - Uses java Servlets and jsp's, No java framework.
   - NO Javascript and Ajax used (part of the assignment).
   - Uses password hashing with salt ([BCrypt]).
   - Prevents XSS with HTML entity encoding on inputs ([more]).
-  - Uses custom HashMaps to translate queries with english chars with greek meaning
+  - Uses custom HashMaps to translate queries with english chars but greek meaning
 
-
-Visit the site here:[http://83.212.100.188:8080/uCook/]
+The site is in Greek Language!
+Visit it here:[http://83.212.100.188:8080/uCook/]
 
 This webpage was developed (Team project) as part of the coding camp ([AFDEmp]) courses.
 
